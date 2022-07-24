@@ -1,0 +1,26 @@
+name: Danielson Ferguson
+enableToc: true
+openToc: false
+enableLinkPreview: true
+enableLatex: true
+enableCodeBlockTitle: true
+enableCodeBlockCopy: true
+enableSPA: true
+enableFooter: true
+enableContextualBacklinks: true
+enableRecentNotes: false
+enableGitHubEdit: false
+GitHubLink: https://github.com/DsonFson/quartz/tree/hugo/content
+description:
+  CAPE Physics, Chemistry & Biology questions made by a past CAPE Science student. This can be used to supplement revision and note-taking.  
+page_title:
+  "Questions for CAPE Students"
+links:
+  - link_name: Youtube
+    link: https://www.youtube.com/channel/UCGfaXjyHrXGHG0qxQZLCA2g
+  - link_name: Gab
+    link: https://gab.com/DsonFson
+  - link_name: Gmail
+    link: mailto:danielsonferguson@gmail.com
+    
+  
